@@ -1,0 +1,3 @@
+browser-sync installation
+https://www.browsersync.io/
+browser-sync --server --directory --files "**/*
